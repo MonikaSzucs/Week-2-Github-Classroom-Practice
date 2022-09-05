@@ -1,4 +1,4 @@
-const {sum, sub} = require('../exercise/ex2.js');
+const {sum, sub} = require('../ex2.js');
 
 describe('exercise 2', ()=>{
   test('what happens when it fails', () => {
